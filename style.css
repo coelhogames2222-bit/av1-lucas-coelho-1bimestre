@@ -1,0 +1,31 @@
+h1{
+    color: rgb(110, 83, 185);
+    font-size: 50px;
+}
+h2{ 
+    color: rgb(30, 58, 150);
+    font-size:30px;
+}
+h3{
+    color: rgb(53, 40, 165);
+}
+HEAD
+h2{
+    color: rgb(0, 0, 0);
+}
+body{
+    background-color: rgb(250, 246, 241);
+}
+body {
+    font-family: 'Arial', sans-serif;
+}
+h1 {
+    font-family: 'Helvetica''Segoe UI', Arial, sans-serif;
+}
+p {
+font-style: italic;
+ font-size: 18px;
+}
+.coelho {
+height: 300px;
+}
